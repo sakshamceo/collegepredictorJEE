@@ -1,0 +1,282 @@
+
+
+/* INSERT QUERY NO: 1 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Trichy', 'CSE', 2060, 5317
+);
+
+/* INSERT QUERY NO: 2 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Trichy', 'ECE', 5325, 8011
+);
+
+/* INSERT QUERY NO: 3 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Trichy', 'ME', 4154, 12970
+);
+
+/* INSERT QUERY NO: 4 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Trichy', 'EE/EEE', 5708, 10353
+);
+
+/* INSERT QUERY NO: 5 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Rourkela', 'CSE', 2253, 9420
+);
+
+/* INSERT QUERY NO: 6 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Rourkela', 'ECE', 8571, 12009
+);
+
+/* INSERT QUERY NO: 7 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Rourkela', 'ME', 11662, 20304
+);
+
+/* INSERT QUERY NO: 8 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Rourkela', 'EE/EEE', 4084, 19168
+);
+
+/* INSERT QUERY NO: 9 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Surathkal', 'CSE', 960, 3181
+);
+
+/* INSERT QUERY NO: 10 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Surathkal', 'ECE', 3378, 5608
+);
+
+/* INSERT QUERY NO: 11 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Surathkal', 'ME', 6315, 11788
+);
+
+/* INSERT QUERY NO: 12 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Surathkal', 'EE/EEE', 3456, 6801
+);
+
+/* INSERT QUERY NO: 13 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Warangal', 'CSE', 978, 2341
+);
+
+/* INSERT QUERY NO: 14 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Warangal', 'ECE', 2919, 2919
+);
+
+/* INSERT QUERY NO: 15 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Warangal', 'ME', 4340, 10209
+);
+
+/* INSERT QUERY NO: 16 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Warangal', 'EE/EEE', 5270, 8152
+);
+
+/* INSERT QUERY NO: 17 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Calicut', 'CSE', 2201, 10222
+);
+
+/* INSERT QUERY NO: 18 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Calicut', 'ECE', 8023, 14769
+);
+
+/* INSERT QUERY NO: 19 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Calicut', 'ME', 10629, 20480
+);
+
+/* INSERT QUERY NO: 20 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Calicut', 'EE/EEE', 9703, 18966
+);
+
+/* INSERT QUERY NO: 21 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Kurukshetra', 'CSE', 2268, 6170
+);
+
+/* INSERT QUERY NO: 22 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Kurukshetra', 'ECE', 8320, 12067
+);
+
+/* INSERT QUERY NO: 23 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Kurukshetra', 'ME', 11195, 18115
+);
+
+/* INSERT QUERY NO: 24 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Kurukshetra', 'EE/EEE', 9454, 16273
+);
+
+/* INSERT QUERY NO: 25 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Durgapur', 'CSE', 5611, 12095
+);
+
+/* INSERT QUERY NO: 26 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Durgapur', 'ECE', 12509, 16098
+);
+
+/* INSERT QUERY NO: 27 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Durgapur', 'ME', 14511, 22753
+);
+
+/* INSERT QUERY NO: 28 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Durgapur', 'EE/EEE', 13595, 19325
+);
+
+/* INSERT QUERY NO: 29 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'MNIT Allahabad', 'CSE', 1449, 4051
+);
+
+/* INSERT QUERY NO: 30 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'MNIT Allahabad', 'ECE', 3600, 7128
+);
+
+/* INSERT QUERY NO: 31 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'MNIT Allahabad', 'ME', 5884, 11145
+);
+
+/* INSERT QUERY NO: 32 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'MNIT Allahabad', 'EE/EEE', 5879, 8790
+);
+
+/* INSERT QUERY NO: 33 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Silchar', 'CSE', 8699, 23882
+);
+
+/* INSERT QUERY NO: 34 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Silchar', 'ECE', 17899, 40841
+);
+
+/* INSERT QUERY NO: 35 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Silchar', 'ME', 21851, 49215
+);
+
+/* INSERT QUERY NO: 36 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'NIT Silchar', 'EE/EEE', 32579, 56958
+);
+
+/* INSERT QUERY NO: 37 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'MNIT Jaipur', 'CSE', 1148, 3831
+);
+
+/* INSERT QUERY NO: 38 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'MNIT Jaipur', 'ECE', 3881, 7868
+);
+
+/* INSERT QUERY NO: 39 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'MNIT Jaipur', 'ME', 9277, 11426
+);
+
+/* INSERT QUERY NO: 40 */
+INSERT INTO colleges(College, Branch, ORank, CRank)
+VALUES
+(
+'MNIT Jaipur', 'EE/EEE', 4119, 9179
+);
+
